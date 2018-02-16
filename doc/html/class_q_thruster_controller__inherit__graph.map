@@ -1,0 +1,3 @@
+<map id="QThrusterController" name="QThrusterController">
+<area shape="rect" id="node2" href="$class_q_thruster_keyboard_controller.html" title="{QThrusterKeyboardController\n|# mKeySequence\l|+ QThrusterKeyboardController()\l+ QThrusterKeyboardController()\l+ linkedKey()\l+ linkKey()\l+ stepSimulation()\l+ reset()\l+ keyPressed()\l+ keyReleased()\l}" alt="" coords="5,175,215,355"/>
+</map>

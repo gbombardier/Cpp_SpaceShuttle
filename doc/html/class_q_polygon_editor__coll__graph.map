@@ -1,0 +1,5 @@
+<map id="QPolygonEditor" name="QPolygonEditor">
+<area shape="rect" id="node3" href="$class_q_polygon_item.html" title="{QPolygonItem\n|# mShowVertices\l# mVertexSize\l# mClockwiseDefined\l# mSelfIntersecting\l|+ boundingRect()\l+ paint()\l+ verticesCount()\l+ vertexSize()\l+ update()\l+ isDefinedClockwise()\l+ isSelfIntersecting()\l+ isShowingVertices()\l+ setVertexSize()\l+ showVertices()\l}" alt="" coords="233,132,387,385"/>
+<area shape="rect" id="node6" href="$class_q_polygon_view.html" title="{QPolygonView\n|# mVertexIndex\l|+ QPolygonView()\l+ ~QPolygonView()\l+ setPolygonItem()\l# leaveEvent()\l# mouseMoveEvent()\l# mousePressEvent()\l# mouseReleaseEvent()\l}" alt="" coords="103,521,261,687"/>
+<area shape="rect" id="node8" href="$class_q_color_box.html" title="QColorBox est un widget permettant l&#39;interaction d&#39;une couleur. " alt="" coords="429,448,633,760"/>
+</map>

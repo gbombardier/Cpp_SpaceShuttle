@@ -1,0 +1,5 @@
+<map id="QSceneModel" name="QSceneModel">
+<area shape="rect" id="node2" href="$class_q_scene_view_controller.html" title="QSceneViewController est l&#39;équivalent de la vue et du controlleur de la simulation. " alt="" coords="135,872,315,1111"/>
+<area shape="rect" id="node4" href="$class_q_physical_body.html" title="QPhysicalBody est une classe représentant un corps physique et ses interactions dans un contexte de s..." alt="" coords="362,453,533,809"/>
+<area shape="rect" id="node5" href="$class_q_shape_body.html" title="QShapeBody est une classe abstraite représentant les caractéristiques géométriques d&#39;un corps physiqu..." alt="" coords="373,5,521,391"/>
+</map>

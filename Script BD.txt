@@ -1,0 +1,73 @@
+DROP TABLE IF EXISTS Shuttle CASCADE;
+DROP TABLE IF EXISTS Shape CASCADE;
+DROP TABLE IF EXISTS FuelTank CASCADE;
+DROP TABLE IF EXISTS Thruster CASCADE;
+
+
+CREATE TABLE Shuttle(
+	Id                 serial,
+	Name               varchar(20),
+	Shape              integer,
+	Surfacemass		   real,
+	Linearposition     Point,
+	Linearspeed		   Point,
+	Angularposition    real,
+	Angularspeed	   real,
+	
+	CONSTRAINT pk_shuttle_id PRIMARY KEY (Id)
+	
+);
+
+CREATE TABLE Shape(
+	Id                 serial,
+	BrushColor		   integer,
+	PenColor           integer, 
+	PenWidth           real,
+	PolygonalShape     polygon,
+
+	
+	CONSTRAINT pk_shape_id PRIMARY KEY (Id)
+);
+
+CREATE TABLE FuelTank(
+	Id                 serial,
+	Shuttle            integer,
+	Capacity           real,
+	FuelLevel		   real CHECK (FuelLevel>=0),
+	TankWidth          real,
+	TankHeight		   real,
+	LinearPosition     point,
+	AngularPosition	   real,
+	FuelColor		   integer,
+	
+	CONSTRAINT pk_fueltank_id PRIMARY KEY (Id)
+);
+
+CREATE TABLE Thruster(
+	Id                 serial,
+	Shuttle            integer,
+	Shape              integer,
+	FuelTank		   integer,
+	MassFlowRate	   real,
+	MassEjectedSpeed   real,
+	Linearposition     Point,
+	Angularposition    real,
+	KeySequence        varchar(20),
+	
+	CONSTRAINT pk_thruster_id PRIMARY KEY (Id)
+);
+
+ALTER TABLE Shuttle ADD UNIQUE (Name);
+ALTER TABLE Shuttle ADD CONSTRAINT fk_shuttle_shape FOREIGN KEY (Shape) REFERENCES Shape(Id);
+
+ALTER TABLE FuelTank ADD CONSTRAINT fk_tank_shuttle FOREIGN KEY (Shuttle) REFERENCES Shuttle(Id);
+
+
+ALTER TABLE Thruster ADD CONSTRAINT fk_thruster_shuttle FOREIGN KEY (Shuttle) REFERENCES Shuttle(Id);
+ALTER TABLE Thruster ADD CONSTRAINT fk_thruster_shape FOREIGN KEY (Shape) REFERENCES Shape(Id);
+ALTER TABLE Thruster ADD CONSTRAINT fk_thruster_tank FOREIGN KEY (FuelTank) REFERENCES FuelTank(Id);
+
+
+
+
+

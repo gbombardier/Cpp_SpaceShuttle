@@ -1,0 +1,7 @@
+<map id="QPhysicalBody" name="QPhysicalBody">
+<area shape="rect" id="node2" href="$class_q_asteroid.html" title="{QAsteroid\n||+ QAsteroid()\l+ QAsteroid()\l+ ~QAsteroid()\l+ generate()\l}" alt="" coords="5,527,113,648"/>
+<area shape="rect" id="node3" href="$class_q_shuttle.html" title="QShuttle est une classe décrivant une navette naviguant dans l&#39;espace 2d. " alt="" coords="138,439,277,736"/>
+<area shape="rect" id="node4" href="$class_q_shuttle_fuel_tank.html" title="QShuttleFuelTank est une classe représetant un réservoir d&#39;une navette. " alt="" coords="301,453,447,721"/>
+<area shape="rect" id="node5" href="$class_q_shuttle_thruster.html" title="QShuttleThruster est une classe représentant le propulseur d&#39;une navette. " alt="" coords="471,439,629,736"/>
+<area shape="rect" id="node6" href="$class_q_shuttle_thruster_fume.html" title="{QShuttleThrusterFume\n|# mAlphaDecreaseRate\l# mRadiusIncreaseRate\l|+ QShuttleThrusterFume()\l+ stepSimulation()\l+ toBeRemoved()\l+ alphaDecreaseRate()\l+ radiusIncreaseRate()\l+ setAlphaDecreaseRate()\l+ setRadiusIncreaseRate()\l}" alt="" coords="653,497,829,677"/>
+</map>

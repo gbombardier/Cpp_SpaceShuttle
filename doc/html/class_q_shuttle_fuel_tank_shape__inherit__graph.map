@@ -1,0 +1,4 @@
+<map id="QShuttleFuelTankShape" name="QShuttleFuelTankShape">
+<area shape="rect" id="node2" href="$class_q_rectangular_body.html" title="QRectangularBody est une classe de forme rectangulaire utilisable par QPhysicalBody. " alt="" coords="21,439,172,677"/>
+<area shape="rect" id="node3" href="$class_q_shape_body.html" title="QShapeBody est une classe abstraite représentant les caractéristiques géométriques d&#39;un corps physiqu..." alt="" coords="23,5,171,391"/>
+</map>

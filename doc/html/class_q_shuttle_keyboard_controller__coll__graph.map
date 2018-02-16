@@ -1,0 +1,6 @@
+<map id="QShuttleKeyboardController" name="QShuttleKeyboardController">
+<area shape="rect" id="node2" href="$class_q_shuttle_controller.html" title="{QShuttleController\n||+ QShuttleController()\l+ ~QShuttleController()\l+ shuttle()\l+ setShuttle()\l+ stepSimulation()\l+ reset()\l}" alt="" coords="99,556,255,707"/>
+<area shape="rect" id="node3" href="$class_q_shuttle.html" title="QShuttle est une classe décrivant une navette naviguant dans l&#39;espace 2d. " alt="" coords="240,872,379,1155"/>
+<area shape="rect" id="node4" href="$class_q_physical_body.html" title="QPhysicalBody est une classe représentant un corps physique et ses interactions dans un contexte de s..." alt="" coords="284,453,455,809"/>
+<area shape="rect" id="node5" href="$class_q_shape_body.html" title="QShapeBody est une classe abstraite représentant les caractéristiques géométriques d&#39;un corps physiqu..." alt="" coords="295,5,443,391"/>
+</map>

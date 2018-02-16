@@ -1,0 +1,16 @@
+﻿  Moc'ing SpaceShuttle.h...
+  Uic'ing SpaceShuttle.ui...
+  Rcc'ing SpaceShuttle.qrc...
+RCC : warning : No resources in 'C:\Users\gabb_\OneDrive\Technique Informatique\Session 2\D├®veloppement en Base de Donn├®es\SpaceShuttle\SpaceShuttle\SpaceShuttle.qrc'.
+  
+  moc_SpaceShuttle.cpp
+c:\users\gabb_\onedrive\technique informatique\session 2\développement en base de données\spaceshuttle\spaceshuttle\generatedfiles\debug\../../SpaceShuttle.h(5): fatal error C1083: Impossible d'ouvrir le fichier include : 'QSceneModel.h' : No such file or directory
+  main.cpp
+c:\users\gabb_\onedrive\technique informatique\session 2\développement en base de données\spaceshuttle\spaceshuttle\SpaceShuttle.h(5): fatal error C1083: Impossible d'ouvrir le fichier include : 'QSceneModel.h' : No such file or directory
+  QShuttleDatabase.cpp
+QShuttleDatabase.cpp(1): fatal error C1083: Impossible d'ouvrir le fichier include : 'QShuttleDatabase.h' : No such file or directory
+  QShuttlePostgresqlDatabase.cpp
+QShuttlePostgresqlDatabase.cpp(1): fatal error C1083: Impossible d'ouvrir le fichier include : 'QShuttlePostgresqlDatabase.h' : No such file or directory
+  SpaceShuttle.cpp
+c:\users\gabb_\onedrive\technique informatique\session 2\développement en base de données\spaceshuttle\spaceshuttle\SpaceShuttle.h(5): fatal error C1083: Impossible d'ouvrir le fichier include : 'QSceneModel.h' : No such file or directory
+  Génération de code en cours...

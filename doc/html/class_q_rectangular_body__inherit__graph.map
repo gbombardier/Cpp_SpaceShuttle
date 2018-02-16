@@ -1,0 +1,5 @@
+<map id="QRectangularBody" name="QRectangularBody">
+<area shape="rect" id="node3" href="$class_q_pixmap_body.html" title="QPixmapBody est une classe de forme rectangulaire affichant une image utilisable par QPhysicalBody..." alt="" coords="5,725,140,935"/>
+<area shape="rect" id="node4" href="$class_q_shuttle_fuel_tank_shape.html" title="{QShuttleFuelTankShape\n||+ QShuttleFuelTankShape()\l+ QShuttleFuelTankShape()\l+ fuelColor()\l+ tankOpaque()\l+ setFuelColor()\l+ setTankOpaque()\l+ draw()\l}" alt="" coords="164,747,347,913"/>
+<area shape="rect" id="node2" href="$class_q_shape_body.html" title="QShapeBody est une classe abstraite représentant les caractéristiques géométriques d&#39;un corps physiqu..." alt="" coords="89,5,237,391"/>
+</map>

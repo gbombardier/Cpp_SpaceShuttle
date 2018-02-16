@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_q_shape_body.html" title="QShapeBody est une classe abstraite représentant les caractéristiques géométriques d&#39;un corps physiqu..." alt="" coords="5,81,104,108"/>
+<area shape="rect" id="node2" href="$class_q_circular_body.html" title="QCircularBody est une classe de forme circulaire utilisable par QPhysicalBody. " alt="" coords="164,5,271,32"/>
+<area shape="rect" id="node3" href="$class_q_no_shape.html" title="QNoShape est une classe de forme sans contenu utilisable par QPhysicalBody. " alt="" coords="175,56,260,83"/>
+<area shape="rect" id="node4" href="$class_q_polygonal_body.html" title="QPolygonalBody est une classe de forme polygonale utilisable par QPhysicalBody. " alt="" coords="158,107,277,133"/>
+<area shape="rect" id="node6" href="$class_q_rectangular_body.html" title="QRectangularBody est une classe de forme rectangulaire utilisable par QPhysicalBody. " alt="" coords="152,157,283,184"/>
+<area shape="rect" id="node5" href="$class_q_asteroid_shape.html" title="QAsteroidShape" alt="" coords="353,107,471,133"/>
+<area shape="rect" id="node7" href="$class_q_pixmap_body.html" title="QPixmapBody est une classe de forme rectangulaire affichant une image utilisable par QPhysicalBody..." alt="" coords="359,157,465,184"/>
+<area shape="rect" id="node8" href="$class_q_shuttle_fuel_tank_shape.html" title="QShuttleFuelTankShape" alt="" coords="331,208,493,235"/>
+</map>

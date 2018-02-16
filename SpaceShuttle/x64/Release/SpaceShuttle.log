@@ -1,0 +1,4 @@
+﻿  SpaceShuttle.cpp
+SpaceShuttle.cpp(862): error C2660: 'QPhysicalBody::setLinearPosition' : la fonction ne prend pas 2 arguments
+SpaceShuttle.cpp(862): error C2059: erreur de syntaxe : ')'
+SpaceShuttle.cpp(876): error C2143: erreur de syntaxe : absence de ')' avant ';'

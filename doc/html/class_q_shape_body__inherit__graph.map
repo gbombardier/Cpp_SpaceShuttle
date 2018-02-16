@@ -1,0 +1,9 @@
+<map id="QShapeBody" name="QShapeBody">
+<area shape="rect" id="node2" href="$class_q_circular_body.html" title="QCircularBody est une classe de forme circulaire utilisable par QPhysicalBody. " alt="" coords="5,475,132,641"/>
+<area shape="rect" id="node3" href="$class_q_no_shape.html" title="QNoShape est une classe de forme sans contenu utilisable par QPhysicalBody. " alt="" coords="157,497,279,619"/>
+<area shape="rect" id="node4" href="$class_q_polygonal_body.html" title="QPolygonalBody est une classe de forme polygonale utilisable par QPhysicalBody. " alt="" coords="303,475,442,641"/>
+<area shape="rect" id="node6" href="$class_q_rectangular_body.html" title="QRectangularBody est une classe de forme rectangulaire utilisable par QPhysicalBody. " alt="" coords="467,439,617,677"/>
+<area shape="rect" id="node5" href="$class_q_asteroid_shape.html" title="{QAsteroidShape\n||+ QAsteroidShape()\l+ QAsteroidShape()\l+ generate()\l}" alt="" coords="304,777,441,883"/>
+<area shape="rect" id="node7" href="$class_q_pixmap_body.html" title="QPixmapBody est une classe de forme rectangulaire affichant une image utilisable par QPhysicalBody..." alt="" coords="469,725,604,935"/>
+<area shape="rect" id="node8" href="$class_q_shuttle_fuel_tank_shape.html" title="{QShuttleFuelTankShape\n||+ QShuttleFuelTankShape()\l+ QShuttleFuelTankShape()\l+ fuelColor()\l+ tankOpaque()\l+ setFuelColor()\l+ setTankOpaque()\l+ draw()\l}" alt="" coords="628,747,811,913"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="QThrusterController" name="QThrusterController">
+<area shape="rect" id="node2" href="$class_q_shuttle_thruster.html" title="QShuttleThruster est une classe représentant le propulseur d&#39;une navette. " alt="" coords="216,1743,373,1996"/>
+<area shape="rect" id="node3" href="$class_q_physical_body.html" title="QPhysicalBody est une classe représentant un corps physique et ses interactions dans un contexte de s..." alt="" coords="324,453,495,809"/>
+<area shape="rect" id="node6" href="$class_q_scene_view_controller.html" title="QSceneViewController est l&#39;équivalent de la vue et du controlleur de la simulation. " alt="" coords="171,872,351,1111"/>
+<area shape="rect" id="node8" href="$class_q_shuttle_fuel_tank.html" title="QShuttleFuelTank est une classe représetant un réservoir d&#39;une navette. " alt="" coords="429,1135,576,1403"/>
+<area shape="rect" id="node4" href="$class_q_shape_body.html" title="QShapeBody est une classe abstraite représentant les caractéristiques géométriques d&#39;un corps physiqu..." alt="" coords="335,5,483,391"/>
+<area shape="rect" id="node5" href="$class_q_scene_model.html" title="QSceneModel est le modèle de la simulation. " alt="" coords="219,1427,370,1680"/>
+</map>

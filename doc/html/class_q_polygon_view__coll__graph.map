@@ -1,0 +1,3 @@
+<map id="QPolygonView" name="QPolygonView">
+<area shape="rect" id="node3" href="$class_q_polygon_item.html" title="{QPolygonItem\n|# mShowVertices\l# mVertexSize\l# mClockwiseDefined\l# mSelfIntersecting\l|+ boundingRect()\l+ paint()\l+ verticesCount()\l+ vertexSize()\l+ update()\l+ isDefinedClockwise()\l+ isSelfIntersecting()\l+ isShowingVertices()\l+ setVertexSize()\l+ showVertices()\l}" alt="" coords="141,132,296,385"/>
+</map>
